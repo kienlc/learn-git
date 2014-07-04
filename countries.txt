@@ -7,4 +7,4 @@ List of countries:
 * Korea
 * Guatemala
 * Japan
-* GERMANY
+* Germany
